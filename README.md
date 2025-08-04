@@ -28,6 +28,4 @@ web-task1/
 - Basic interactivity using JavaScript
 - Clean and modular file structure
 
-## 📄 License
 
-This project is for educational/demo purposes.
